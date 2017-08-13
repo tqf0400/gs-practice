@@ -1,0 +1,10 @@
+.wrapper{
+    min-height: 2000px;
+    width: 100%;
+}
+
+.box {
+    height: 0;
+    width: 100%;
+    background-color: red;
+}
